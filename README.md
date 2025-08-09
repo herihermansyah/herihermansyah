@@ -7,20 +7,6 @@
 💻 Passionate about building interactive, fast, and responsive websites. <br>
 🌱 Always learning new technologies and improving code efficiency.<br>
 
-<h2 align="left">I code with</h2>
-
-
-
-<img src="https://raw.githubusercontent.com/herman/herman/output/snake.svg" alt="Snake animation" />
-
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/herman/herman/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/herman/herman/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/herman/herman/output/pacman-contribution-graph.svg">
-</picture>
-
-
 ## 🌐 Socials:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/heri-hermansyah)
