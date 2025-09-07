@@ -4,8 +4,7 @@
 
 # **Frontend Web Developer** <br>
 
-💻 Passionate about building interactive, fast, and responsive websites. <br>
-🌱 Always learning new technologies and improving code efficiency.<br>
+Frontend Developer specializing in modern JavaScript frameworks and responsive UI design. Skilled in React, TailwindCSS, and deployment workflows with Vercel. Focused on building user-friendly applications with clean, maintainable code.
 
 ## 🌐 Socials:
 
