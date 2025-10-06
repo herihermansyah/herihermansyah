@@ -1,4 +1,4 @@
-![Header](img/banner.png)
+![Header](img/banneryellow.png)
 
 # **Hi, I'm Heri Hermansyah** 👋<br>
 
